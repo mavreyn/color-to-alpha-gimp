@@ -56,7 +56,7 @@ def main():
     # Write a title and description
     st.title('GIMP Color to Alpha Algorithm 🎨')
     st.write("Upload an image and pick a color to see the algorithm in action! Don't forget to adjust the transparency and opacity thresholds to produce different results. The algorithm works by smoothly transitioning all colors that fall between the thresholds from opaque to transparent depending on how close they are to the selected color.")
-    st.write("To read more about the algorithm, CLICK HERE TO DO STUFF")
+    st.markdown("You can read more about how the algorithm works [here](https://medium.com/@mcreynolds02/how-gimps-color-to-alpha-tool-works-82372367afcd).")
 
     # Sidebar for upload and options
     st.sidebar.title('Upload an Image')
