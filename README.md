@@ -10,4 +10,4 @@ The algorithm measures the distance between colors in RGB space and determines i
 
 ## Use and Learn
 
-Feel free to use the web app ON STREAMLIT and read more about the algorithm ON MY MEDIUM
+Feel free to use the web app on [Streamlit](https://color-to-alpha.streamlit.app/) and read more about the algorithm on [Medium](https://medium.com/@mcreynolds02/how-gimps-color-to-alpha-tool-works-82372367afcd)
