@@ -10,7 +10,7 @@ Maverick Reynolds
 import numpy as np
 
 # Different scalar interpolation functions
-def interpolate(x: int | float, interpolation=None):
+def interpolate(x, interpolation=None):
     if interpolation == 'power':
         return x**2
     elif interpolation == 'root':
